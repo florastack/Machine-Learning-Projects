@@ -1,0 +1,5 @@
+I had same issue with what was discussed in 
+https://forum.sublimetext.com/t/when-i-try-to-run-my-python-code-it-says-that-python-isnt-an-operable-program/21722
+when I first installed Sublime on my windows based computer.
+
+How I fixed it is: start - edit the system environment variables - path and add the path of IDLE file. 
